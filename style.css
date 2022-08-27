@@ -1,0 +1,16 @@
+#product-table{
+align-items: center;
+text-align: center;
+    width: 100%;
+}
+
+th{
+    color: white;
+    background: black;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+ 
+
